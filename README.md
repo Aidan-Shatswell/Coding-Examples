@@ -14,4 +14,4 @@ There is also an .exe file that you can just double click and run (if you have J
 Here are the links to download those programs:
 JDK 20 --- https://www.oracle.com/java/technologies/downloads/#jdk20-windows
 JavaFX 20 --- https://gluonhq.com/products/javafx/
-Scene Builder --- https://gluonhq.com/products/scene-builder/ (not require, but recommended)
+Scene Builder --- https://gluonhq.com/products/scene-builder/ (not required, but recommended)
