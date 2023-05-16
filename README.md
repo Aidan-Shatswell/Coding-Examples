@@ -9,7 +9,8 @@ You can also navigate to the raw source code and view it that way. Alternatively
 You can also navigate to the raw source code and view it that way. Alternatively, there is a .exe file that you can just double click and run.
 
 "Business Card Maker" was written in Java (specifcially JavaFX) using IntelliJ, meaning if you download that folder and open it using IJ, it should run.
-You can also navigate to the raw source code and view it that way. Alternatively, there is a .exe file that you can just double click and run.
+You can also navigate to the raw source code and view it that way (here is the directory: Business Card Maker/src/main/java/com/example/demo)
+Alternatively, there is a .exe file that you can just double click and run.
 (if you have Java Development Kit 20, JavaFX 20, & Scene Builder installed). Here are the links to download those programs:
 JDK 20 --- https://www.oracle.com/java/technologies/downloads/#jdk20-windows
 JavaFX 20 --- https://gluonhq.com/products/javafx/
